@@ -111,3 +111,9 @@ function replay() {
     startGame();
     popup.style.display = "none";
   }
+function replay() {
+  grid.innerHTML = "";
+  createBoard();
+  startGame();
+  popup.style.display = "none";
+}
