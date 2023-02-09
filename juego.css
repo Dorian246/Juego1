@@ -80,7 +80,7 @@ body {
     transform: translate(-50%, -80%);
   }
 #C:active{
-     background-color:    #008000;
+      background-color:    #008000;
     color: #fff;
     box-shadow: 0 0 20px   #008000 ,
                 0 0 50px    #008000;
@@ -94,7 +94,7 @@ body {
     transform: translate(-50%, -80%);
   }
  #D:active{
-     background-color:    #008000;
+      background-color:    #008000;
     color: #fff;
     box-shadow: 0 0 20px   #008000 ,
                 0 0 50px    #008000;
