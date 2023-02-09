@@ -51,7 +51,10 @@ body {
     transform: translate(-50%, -80%);
   }
   #A:active{
-    background-color: #008000;
+    background-color:    #008000;
+    color: #fff;
+    box-shadow: 0 0 20px   #008000 ,
+                0 0 50px    #008000;
   }
   
   #B{
@@ -63,7 +66,10 @@ body {
     transform: translate(-50%, -80%);
   }
  #B:active{
-    background-color: #008000;
+     background-color:    #008000;
+    color: #fff;
+    box-shadow: 0 0 20px   #008000 ,
+                0 0 50px    #008000;
   }
   #C{
     height: 30px;
@@ -74,7 +80,10 @@ body {
     transform: translate(-50%, -80%);
   }
 #C:active{
-    background-color: #008000;
+     background-color:    #008000;
+    color: #fff;
+    box-shadow: 0 0 20px   #008000 ,
+                0 0 50px    #008000;
   }
   #D{
     height: 30px;
@@ -85,7 +94,10 @@ body {
     transform: translate(-50%, -80%);
   }
  #D:active{
-    background-color: #008000;
+     background-color:    #008000;
+    color: #fff;
+    box-shadow: 0 0 20px   #008000 ,
+                0 0 50px    #008000;
   }
   .scoreDisplay{
     text-align: center;
