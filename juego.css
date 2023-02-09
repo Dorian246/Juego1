@@ -50,6 +50,10 @@ body {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -80%);
   }
+  #A:active{
+    background-color: #008000;
+  }
+  
   #B{
     height: 30px;
     position: absolute;
@@ -57,6 +61,9 @@ body {
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -80%);
+  }
+ #B:active{
+    background-color: #008000;
   }
   #C{
     height: 30px;
@@ -66,6 +73,9 @@ body {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -80%);
   }
+#C:active{
+    background-color: #008000;
+  }
   #D{
     height: 30px;
     position: absolute;
@@ -73,6 +83,9 @@ body {
     left: 55%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -80%);
+  }
+ #D:active{
+    background-color: #008000;
   }
   .scoreDisplay{
     text-align: center;
